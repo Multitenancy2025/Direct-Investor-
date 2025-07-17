@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify user can create South African Unit Trust</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a02be94f-2283-423d-95d9-e65d0c337e27</testCaseGuid>
+</TestCaseEntity>

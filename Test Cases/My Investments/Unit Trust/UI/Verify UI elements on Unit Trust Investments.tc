@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify UI elements on Unit Trust Investments</description>
+   <name>Verify UI elements on Unit Trust Investments</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e5ecc5a3-0f62-4235-b426-2185a9801c24</testCaseGuid>
+</TestCaseEntity>

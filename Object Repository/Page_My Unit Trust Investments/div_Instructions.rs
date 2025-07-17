@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Instructions</name>
+   <tag></tag>
+   <elementGuidId>177a115e-73d1-43a6-94f9-105d7c153062</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.Button_button__x6lHc.Button_outline__Pc4O9.Button_small__Z0wCI.Button_rounded__33bcQ > div.Button_children__c7wUH</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div[2]/div/div/div[2]/div/div/div/div/button[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Instructions&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>864b648a-1848-4ed2-8a18-8428da6392b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Button_children__c7wUH</value>
+      <webElementGuid>8d9fa9a0-69e4-4a01-be37-20efb50cedef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Instructions</value>
+      <webElementGuid>60b1dd54-e6c4-4586-bec3-a39e4ddd2e88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/div[@class=&quot;px-24 md:px-40 gapped-32&quot;]/div[@class=&quot;text-black gapped-40 pb-40&quot;]/div[@class=&quot;gapped-40&quot;]/div[@class=&quot;gapped-12&quot;]/div[@class=&quot;gapped-12&quot;]/div[@class=&quot;gapped-16&quot;]/div[@class=&quot;InvestmentActionRow_investmentactionrow__gNScM InvestmentActionRow_forcedlabels__Lv3Il&quot;]/div[@class=&quot;InvestmentActionRow_instructionrow__VdGUJ&quot;]/div[@class=&quot;ButtonGroup_buttongroup__YE_kj flex flex-row InvestmentActionRow_buttons__IKiPV gap-8&quot;]/button[@class=&quot;Button_button__x6lHc Button_outline__Pc4O9 Button_small__Z0wCI Button_rounded__33bcQ&quot;]/div[@class=&quot;Button_children__c7wUH&quot;]</value>
+      <webElementGuid>30c6b3e8-f24d-4df1-b3b1-fff98fe1c346</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div[2]/div/div/div[2]/div/div/div/div/button[2]/div</value>
+      <webElementGuid>e89f3e6b-ab9f-4de6-be81-9b8718ecd77b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transact'])[2]/following::div[1]</value>
+      <webElementGuid>7002a7d0-95ed-4aae-91c4-0eaad3882d2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Market Value'])[1]/following::div[3]</value>
+      <webElementGuid>5526fbf6-616a-4e72-8b8e-1dafed20e5eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fund'])[2]/preceding::div[1]</value>
+      <webElementGuid>8d3a2a4a-994f-44a6-8bf7-1d3a5b159189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Instructions']/parent::*</value>
+      <webElementGuid>dffb4033-4dd3-4874-a380-8944ba061f10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/div</value>
+      <webElementGuid>4614d050-b31d-4b41-ab92-1e9108610da3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Instructions' or . = 'Instructions')]</value>
+      <webElementGuid>75d84b8b-1bee-458e-80e1-3fad8bfdf1dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

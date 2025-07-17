@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Invest Now</name>
+   <tag></tag>
+   <elementGuidId>57c471d5-3eed-49f5-b3ce-325f89661d98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[2]/form/div/div[2]/div/div/div/div/div[2]/div/div/button[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Invest Now&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>371ab5db-4199-4541-836d-9c93c5245851</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Button_children__c7wUH</value>
+      <webElementGuid>6daba50f-3cfc-46dd-8063-77ba9b1e4a04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invest Now</value>
+      <webElementGuid>bb15b69c-5178-4c54-864f-86098f884c24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/div[@class=&quot;pb-m sm:pb-l lg:pb-xl&quot;]/form[@class=&quot;gapped-20&quot;]/div[@class=&quot;px-24 md:px-40&quot;]/div[2]/div[@class=&quot;py-20 md:py-40 gapped-20 md:gapped-40&quot;]/div[1]/div[1]/div[@class=&quot;grid grid-cols-1 md:grid-cols-3 gap-20 pb-40&quot;]/div[2]/div[@class=&quot;NewInvestmentSelection_newinvestment__oIq2c flex flex-col p-20 text-center transition-all border border-textButton hover:ring-1 ring-textButton items-center place-content-between h-full&quot;]/div[@class=&quot;grid gap-20&quot;]/button[@class=&quot;Button_button__x6lHc Button_primary__a8YrV w-full&quot;]/div[@class=&quot;Button_children__c7wUH&quot;]</value>
+      <webElementGuid>c4b7b06d-64dd-487e-bf85-7dd126365499</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/form/div/div[2]/div/div/div/div/div[2]/div/div/button[2]/div</value>
+      <webElementGuid>111392d2-eed3-467d-9f1b-7c7a73e7bfe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn More'])[2]/following::div[1]</value>
+      <webElementGuid>defbb26e-7063-4e2d-9f63-3be25d8263a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tax Free Savings Account'])[1]/following::div[2]</value>
+      <webElementGuid>1e8f3fad-f0db-481b-9ee8-0ecc019509b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Retirement Annuity Fund'])[1]/preceding::div[1]</value>
+      <webElementGuid>1ef4b858-e4fb-4b87-8019-36f0eb95cf88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn More'])[3]/preceding::div[1]</value>
+      <webElementGuid>922061a6-a736-4e1f-938f-0bf53c18f4f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button[2]/div</value>
+      <webElementGuid>4f6294fe-2911-4021-ac4e-89711cacedcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Invest Now' or . = 'Invest Now')]</value>
+      <webElementGuid>9866e459-64ca-417d-86fd-4eaf536f13f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/form/div/div[2]/div/div/div/div/div/div/div/button[2]/div</value>
+      <webElementGuid>390ce4de-5ad0-4a50-bfea-2cc74ff24f33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn More'])[1]/following::div[1]</value>
+      <webElementGuid>0bd9ddd3-e6f2-4a0d-a64e-fc54e6542da5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='South African Unit Trust'])[1]/following::div[2]</value>
+      <webElementGuid>d44fd5b2-a893-4cb1-acaa-18ab37bb9afe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tax Free Savings Account'])[1]/preceding::div[1]</value>
+      <webElementGuid>6c090f6c-709e-4903-9d24-dce28ffdaa85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Invest Now']/parent::*</value>
+      <webElementGuid>d0855e09-a08b-47ed-9b25-ab48e8a612e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/div</value>
+      <webElementGuid>0549fcb0-1ce8-4e92-929e-c10ce8cdd86f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

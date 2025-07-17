@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Factsheets</name>
+   <tag></tag>
+   <elementGuidId>43ad69ce-e8b9-4f69-9cf4-8cb3d90804b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div[2]/section/section/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.bg-neutralsDark10.flex.justify-between.items-center.p-20.cursor-pointer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Factsheets$/ >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f2b68cfd-3a3c-45d2-b6d9-aaa7cc230f72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-neutralsDark10 flex justify-between items-center p-20 cursor-pointer</value>
+      <webElementGuid>ee6a7b80-e883-4bfc-abf9-ae739313277f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Factsheets</value>
+      <webElementGuid>ee261d32-675a-49e4-902d-cf5db5259104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/div[@class=&quot;px-24 md:px-40&quot;]/div[@class=&quot;text-black gapped-40 pb-40&quot;]/section[@class=&quot;grid gap-40 md:grid-cols-3&quot;]/section[@class=&quot;col-span-3 sm:col-span-2 gapped-16 type-14&quot;]/div[1]/div[@class=&quot;stick&quot;]/div[@class=&quot;bg-neutralsDark10 flex justify-between items-center p-20 cursor-pointer&quot;]</value>
+      <webElementGuid>ef370d1f-b079-48fc-90a1-2a3dc05feb5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div[2]/section/section/div/div/div</value>
+      <webElementGuid>6143929b-afcc-484f-a67d-4fc9355bba8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Factsheets'])[2]/following::div[3]</value>
+      <webElementGuid>4a3ffb53-8aa4-4a0f-a758-752fde7487f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brochures'])[1]/following::div[5]</value>
+      <webElementGuid>44ebf35b-5f3a-4bd1-8e77-d6434bec2630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescient Collective Investment Schemes'])[1]/preceding::div[4]</value>
+      <webElementGuid>32308373-f7fd-41cd-b825-4a632f4079fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div</value>
+      <webElementGuid>bb2a0c75-9892-47a6-9af0-2f6c1bfda2b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Factsheets' or . = 'Factsheets')]</value>
+      <webElementGuid>74062805-40ab-4641-81a5-f244fdec15b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

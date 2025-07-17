@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can download documents</description>
+   <name>Verify that user can download documents _Global Funds ICAV - Legal Entities</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>12bfe937-ee96-4318-8131-40775a4c27fd</testCaseGuid>
+</TestCaseEntity>

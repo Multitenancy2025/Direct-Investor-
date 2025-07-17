@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Active Linked Investment</name>
+   <tag></tag>
+   <elementGuidId>8b8614a4-ccf2-4f01-a26e-6bf7e660a852</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[2]/section/section/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.LinkedInvestmentActionRow_accordion__Cjjjk</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Active Linked Investment&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a01be97e-09b9-456a-a93a-94764d6ec0ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>LinkedInvestmentActionRow_accordion__Cjjjk</value>
+      <webElementGuid>40a3468f-102b-436e-b5a9-77ec69002698</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Active Linked Investment</value>
+      <webElementGuid>026f8d74-2665-4e72-a10f-778196f3d44c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h LinkedInvestments_linkedinvestments__8JL8W&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/div[@class=&quot;px-24 md:px-40 gapped-40 md:gapped-xl&quot;]/section[@class=&quot;grid gap-40 md:grid-cols-3&quot;]/section[@class=&quot;col-span-3 sm:col-span-2 gapped-16 type-14&quot;]/div[@class=&quot;LinkedInvestments_linkedInvestmentContainer__vlfjq&quot;]/div[1]/div[@class=&quot;overflow-hidden&quot;]/div[@class=&quot;LinkedInvestmentActionRow_accordion__Cjjjk&quot;]</value>
+      <webElementGuid>053da25b-3362-4c5d-8cf3-01c471799b82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/section/section/div/div/div[2]/div</value>
+      <webElementGuid>c15c730d-673b-41d9-8b68-1a9ad2ce4440</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info'])[1]/following::div[2]</value>
+      <webElementGuid>9f67a9cb-7729-4f6f-93ad-7a54614779e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[1]/following::div[4]</value>
+      <webElementGuid>abac8085-82ce-4bc4-a29d-bf836a2f0bcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entity Id'])[2]/preceding::div[1]</value>
+      <webElementGuid>0ce0a11b-cdba-4688-9ca6-4cde7db17f99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[2]/preceding::div[1]</value>
+      <webElementGuid>04da63a5-b160-446e-ae1e-f0d8ba299e2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Active Linked Investment']/parent::*</value>
+      <webElementGuid>2fd8c29b-af1a-49b0-8339-4bcd3c6c0e15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div[2]/div</value>
+      <webElementGuid>b6ad8c0b-1a25-4b37-bdc3-84880cbb3d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Active Linked Investment' or . = 'Active Linked Investment')]</value>
+      <webElementGuid>b5bbd034-a665-4bd7-a210-d4b2dc6d4b88</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

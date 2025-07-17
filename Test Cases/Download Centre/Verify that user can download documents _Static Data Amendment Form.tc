@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can download documents</description>
+   <name>Verify that user can download documents _Static Data Amendment Form</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1d044590-25bd-490a-9824-d25413a93c2f</testCaseGuid>
+</TestCaseEntity>

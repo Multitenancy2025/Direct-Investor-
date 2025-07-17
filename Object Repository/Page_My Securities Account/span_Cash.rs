@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cash</name>
+   <tag></tag>
+   <elementGuidId>9bea728c-dd45-4314-bf8b-773f17f52e97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div[2]/div/div/article/article/section/header/h2/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Cash&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0b9e5d09-cb6b-4828-b018-c2347076ea4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cash</value>
+      <webElementGuid>35bbb33d-f090-416b-a3d1-0c2227c4276b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/div[@class=&quot;px-24 md:px-40 gapped-32&quot;]/div[@class=&quot;text-black gapped-40 pb-40&quot;]/div[@class=&quot;gapped-40&quot;]/div[@class=&quot;gapped-40&quot;]/article[@class=&quot;grid grid-cols-1 sm:grid-cols-2 md:grid-cols-1 lg:grid-cols-3 gap-20 pb-12&quot;]/article[@class=&quot;Card_card__X8yAr m-0 p-0 max-w-none&quot;]/section[@class=&quot;h-full&quot;]/header[@class=&quot;Card_cardheader__dZDMp p-24 pb-0 flex justify-between items-center&quot;]/h2[1]/span[1]</value>
+      <webElementGuid>8b275cbd-1761-46b6-938f-60c08f0e7762</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div[2]/div/div/article/article/section/header/h2/span</value>
+      <webElementGuid>411f1b33-6963-48b1-a842-1c6dbf697ef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Financial History'])[1]/following::span[1]</value>
+      <webElementGuid>440547f2-834a-47da-b294-ae07237a1ced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trade History'])[1]/following::span[1]</value>
+      <webElementGuid>af6739cf-9b84-4857-ad85-3c4e1f30d732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Value'])[1]/preceding::span[1]</value>
+      <webElementGuid>835b8d53-8837-460b-bc96-8da9af3484ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R 18,07'])[1]/preceding::span[1]</value>
+      <webElementGuid>95b3d51a-29ac-4e82-8a3c-f6abf8d707e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cash']/parent::*</value>
+      <webElementGuid>ce5dc535-e269-47b5-b97b-043b6e3a8651</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/span</value>
+      <webElementGuid>451d5dc9-c867-4349-b11c-9f8f8b671274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cash' or . = 'Cash')]</value>
+      <webElementGuid>0c6ea28a-5dbe-4161-88f3-bad53cbc454a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>405f5ec9-c66e-47a1-9ae6-bbe5eee351fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[2]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > div.LinkedInvestmentActionRow_linkedinvestmentactionrow__TvA1P > span.LinkedInvestmentActionRow_button__H4IO6 > button > div.IconSwap_iconwrapper__9d5h_ > div.IconSwap_icon2__6HFDD > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(2) > .LinkedInvestmentActionRow_linkedinvestmentactionrow__TvA1P > .LinkedInvestmentActionRow_button__H4IO6 > button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>30e9fbda-b863-469a-820b-a5cce003bd29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>5bd67868-1972-4e2e-b34a-78a31e0d4830</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>4ff51fec-6205-4661-b12d-43817b94ccb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>be80f7ec-50c4-449e-be06-dd7ed15cdfab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>2bf8a613-7d89-4b76-b584-70408299e2e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>d88c3830-f28f-465a-9bd1-00324853f0d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h LinkedInvestments_linkedinvestments__8JL8W&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/div[@class=&quot;px-24 md:px-40 gapped-40 md:gapped-xl&quot;]/section[@class=&quot;grid gap-40 md:grid-cols-3&quot;]/section[@class=&quot;col-span-3 sm:col-span-2 gapped-16 type-14&quot;]/div[@class=&quot;LinkedInvestments_linkedInvestmentContainer__vlfjq&quot;]/div[2]/div[@class=&quot;LinkedInvestmentActionRow_linkedinvestmentactionrow__TvA1P&quot;]/span[@class=&quot;LinkedInvestmentActionRow_button__H4IO6&quot;]/button[1]/div[@class=&quot;IconSwap_iconwrapper__9d5h_&quot;]/div[@class=&quot;IconSwap_icon2__6HFDD&quot;]/svg[1]</value>
+      <webElementGuid>a30738f6-cf53-4222-86f8-52bf26a3248d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>b779f2d6-8425-4595-a0b3-4a8a73904e1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>30d343a6-9b72-4f51-bc67-fc15302bc187</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>6aeb2861-8ea2-4491-8a0e-e650af900d7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entity Id'])[3]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>282a3cec-3062-49e2-b57f-fb64bb7ff87a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

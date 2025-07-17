@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_Total Value_1_2</name>
+   <tag></tag>
+   <elementGuidId>963ba18f-e63a-4a0d-94e6-60fc65f419e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/main/article/div[2]/a/article/section/section/div/div/small</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>a >> internal:has-text=&quot;Retirement AnnuityPrescientTotal ValueR 42 312,48View&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>1f8feeaf-978e-4495-b45f-ebcc8d89c32c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-neutralsDark100</value>
+      <webElementGuid>3f2c1b60-e877-457b-8842-c7a03d3c5c71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Total Value</value>
+      <webElementGuid>4c837a38-5848-4fa4-ae93-a7bcf2c7dbe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/main[@class=&quot;px-24 md:px-40&quot;]/article[@class=&quot;InvestmentCardsGrid_investmentcards__FBemY&quot;]/div[2]/a[1]/article[@class=&quot;Card_card__X8yAr m-0 p-0 max-w-none cursor-pointer&quot;]/section[@class=&quot;h-full&quot;]/section[@class=&quot;Card_cardbody__BkO94 p-24 items-end&quot;]/div[@class=&quot;flex flex-col items-start gap-12 sm:flex-row sm:justify-between sm:items-end&quot;]/div[1]/small[@class=&quot;text-neutralsDark100&quot;]</value>
+      <webElementGuid>9ac45bcc-4a01-4f56-b3e3-275763f60c6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/main/article/div[2]/a/article/section/section/div/div/small</value>
+      <webElementGuid>5b11135c-d603-4f71-8c1c-57de4eec5397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Retirement Annuity'])[1]/following::small[1]</value>
+      <webElementGuid>8d2b254e-6de6-4a46-bc22-588cc5d97351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[1]/following::small[1]</value>
+      <webElementGuid>fcadb522-95d9-459e-96ba-003f94f30708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R 42 312,48'])[1]/preceding::small[1]</value>
+      <webElementGuid>48b88cd1-08d2-47bb-90cb-ffee7354b935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[2]/preceding::small[1]</value>
+      <webElementGuid>935ec898-7dd7-4114-bcfc-b567fa32752e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/article/section/section/div/div/small</value>
+      <webElementGuid>8d66c059-35bf-465d-88b5-a2b63f77e466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = 'Total Value' or . = 'Total Value')]</value>
+      <webElementGuid>ab7ba31f-0386-4972-bdc5-2740d53ec02c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

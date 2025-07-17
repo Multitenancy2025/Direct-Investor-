@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can download documents</description>
+   <name>Verify that user can download documents _Glossary</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>32ba7e3b-ad4a-4195-bc5c-b6de99a2edda</testCaseGuid>
+</TestCaseEntity>

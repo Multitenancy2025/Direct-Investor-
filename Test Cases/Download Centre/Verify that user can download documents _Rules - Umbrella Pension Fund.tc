@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can download documents</description>
+   <name>Verify that user can download documents _Rules - Umbrella Pension Fund</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3326ec33-bcc2-4a31-9377-a35ff60e004e</testCaseGuid>
+</TestCaseEntity>

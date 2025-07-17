@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify UI elements on My instructions screen</description>
+   <name>Verify UI elements on My instructions screen_Unit Trust</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0fe13940-2daf-4a14-9c6f-5a9e22aa9961</testCaseGuid>
+</TestCaseEntity>

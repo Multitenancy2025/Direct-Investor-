@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Show Base Currency_1</name>
+   <tag></tag>
+   <elementGuidId>cdfc9a6e-1911-4a1b-b5ea-3803d75d9b20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.whitespace-nowrap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div[2]/div/header/div[2]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Show Base Currency&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a4900777-5513-4713-9d9e-12a6d7143235</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>whitespace-nowrap</value>
+      <webElementGuid>7202a039-39ea-41cb-b96a-fc306f921040</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Show Base Currency</value>
+      <webElementGuid>d28e7ff7-c5ee-44d2-bfb3-aee1cd41ac1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/div[@class=&quot;px-24 md:px-40 gapped-32&quot;]/div[@class=&quot;text-black gapped-40 pb-40&quot;]/div[@class=&quot;gapped-40&quot;]/header[@class=&quot;flex w-full items-center flex-col md:flex-row justify-between gap-y-20&quot;]/div[@class=&quot;ShowToggles_showtoggles__ou07r w-full&quot;]/div[@class=&quot;flex items-center flex-col justify-center md:justify-end md:flex-row gap-8 md:gap-32 Toggle_toggle__iW_oS Toggle_pretty__m33ld&quot;]/div[@class=&quot;flex items-center gap-8 w-full md:w-auto&quot;]/span[@class=&quot;whitespace-nowrap&quot;]</value>
+      <webElementGuid>1bc54ff1-b496-4979-88e1-ccc61dd918d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div[2]/div/header/div[2]/div/div/span</value>
+      <webElementGuid>8cc3b8a1-a541-434e-bc12-c6f3b60474ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity Summary'])[1]/following::span[1]</value>
+      <webElementGuid>9edf5813-a06a-461b-b6eb-4524f07d5d7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Investor Reporting'])[1]/following::span[1]</value>
+      <webElementGuid>ce711f93-5a2f-4e26-84a7-4df383579a51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Zeros'])[1]/preceding::span[1]</value>
+      <webElementGuid>4af3b1c2-0719-46ad-9cdf-18569ce210dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Employee Benefit'])[1]/preceding::span[2]</value>
+      <webElementGuid>f36dba4b-1f19-4541-bfdd-e1e0416b2a7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Show Base Currency']/parent::*</value>
+      <webElementGuid>73f154dc-3e5d-4505-a788-14d330471215</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span</value>
+      <webElementGuid>a94ee89c-5ed8-4d97-9811-9ec852760571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Show Base Currency' or . = 'Show Base Currency')]</value>
+      <webElementGuid>10b8aa74-455b-46c6-bc27-f27da10e3624</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

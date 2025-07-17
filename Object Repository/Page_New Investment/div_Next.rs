@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Next</name>
+   <tag></tag>
+   <elementGuidId>ac2110e4-5eb1-407e-b6cc-4670c5c6a4be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[2]/div/div[2]/div/button/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-right > button.Button_button__x6lHc.Button_primary__a8YrV > div.Button_children__c7wUH</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Next' or . = 'Next')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Next&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>90514391-e45f-4d1c-ba85-484f02938065</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Button_children__c7wUH</value>
+      <webElementGuid>41108635-5a81-4e5d-917a-dd4b3e5bbaa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next</value>
+      <webElementGuid>f883d829-d9aa-413f-8150-75fc00c7fc07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/div[@class=&quot;pb-m sm:pb-l lg:pb-xl&quot;]/form[@class=&quot;gapped-20&quot;]/div[@class=&quot;px-24 md:px-40&quot;]/div[2]/div[@class=&quot;py-20 md:py-40 gapped-20 md:gapped-40&quot;]/div[@class=&quot;flex flex-col gap-20 justify-end&quot;]/div[@class=&quot;text-right&quot;]/button[@class=&quot;Button_button__x6lHc Button_primary__a8YrV&quot;]/div[@class=&quot;Button_children__c7wUH&quot;]</value>
+      <webElementGuid>4fa38549-4ee5-4449-bebb-a9fe4e5bdb00</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/form/div/div[2]/div/div[2]/div/button/div</value>
+      <webElementGuid>e82bf4e4-bb97-4de3-a939-5fb577de4cc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invest Now'])[3]/following::div[7]</value>
+      <webElementGuid>9e30126b-4e62-4860-9c5b-deaf04642d06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn More'])[3]/following::div[8]</value>
+      <webElementGuid>dddd8153-8601-4b41-af23-f0802d322ba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Investment Details'])[1]/preceding::div[1]</value>
+      <webElementGuid>3381ce88-9126-4f94-ada5-3d3474fa3abe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Correspondence'])[1]/preceding::div[5]</value>
+      <webElementGuid>c519a485-e549-4fea-8d5b-14c814ddcbb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
+      <webElementGuid>ea1304c1-181a-4361-afa7-ff18058ebc27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button/div</value>
+      <webElementGuid>0e458cc5-af9c-40e3-b3d1-c948f4363ca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Next' or . = 'Next')]</value>
+      <webElementGuid>28309167-2848-4076-b5c2-ff05c26c2fa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/form/div[2]/div[2]/div/div[2]/div/button/div</value>
+      <webElementGuid>29c5375c-dd4a-4cd9-ba3d-8f41bcda9337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payout'])[1]/following::div[3]</value>
+      <webElementGuid>6444f83e-a783-43d9-ac84-7088bc5bc28b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reinvest'])[1]/following::div[4]</value>
+      <webElementGuid>26e65e32-988a-4f61-8d4b-94a1cd1d9393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fund Selection'])[1]/preceding::div[1]</value>
+      <webElementGuid>0a938b0a-564b-4b1c-943c-650761582312</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Fund'])[1]/preceding::div[5]</value>
+      <webElementGuid>579d1466-f4ac-4a6b-ac1d-51cf3b30f2af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div/button/div</value>
+      <webElementGuid>9f5452a0-c8f0-41cd-a4a3-7e7ec7df3a9b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

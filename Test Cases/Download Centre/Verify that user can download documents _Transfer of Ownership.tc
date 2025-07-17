@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can download documents</description>
+   <name>Verify that user can download documents _Transfer of Ownership</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>09dd7b3c-2e2e-47a3-b2c3-45be97fb2f50</testCaseGuid>
+</TestCaseEntity>

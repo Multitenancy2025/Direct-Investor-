@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select</name>
+   <tag></tag>
+   <elementGuidId>3533a8a3-3c38-4253-8b97-c8948ef64011</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='investmentDetails.sourceOfFunds']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-select__control.react-select__control--is-focused.react-select__control--menu-is-open.css-t3ipsp-control > div.react-select__value-container.css-hlgwow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;investmentDetails\.sourceOfFunds&quot;] div >> internal:has-text=&quot;Select...&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1ce772ae-3667-41ae-bac7-85986f517cd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__value-container css-hlgwow</value>
+      <webElementGuid>3f09b59a-5639-4965-abeb-ddc92a5ffed7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select...</value>
+      <webElementGuid>e587929d-6c56-444d-b9bc-952dcbeec8a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;investmentDetails.sourceOfFunds&quot;)/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-t3ipsp-control&quot;]/div[@class=&quot;react-select__value-container css-hlgwow&quot;]</value>
+      <webElementGuid>5f6ad1f4-793c-4878-babd-7808d732e2a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='investmentDetails.sourceOfFunds']/div/div</value>
+      <webElementGuid>128fc629-8bcf-4da5-a2be-b967b3663ffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Source of Funds'])[1]/following::div[4]</value>
+      <webElementGuid>9d42d29b-5258-491b-9ecb-51b1d8381dba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select...'])[1]/following::div[9]</value>
+      <webElementGuid>40587fa2-f810-4e78-af64-1fce154286ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Child/Spousal Support Payments'])[1]/preceding::div[5]</value>
+      <webElementGuid>8658188f-13a5-4307-b96f-059df0eeb71c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>7d8ec00c-35c2-4973-b7f4-f3ecfcf32ba5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select...' or . = 'Select...')]</value>
+      <webElementGuid>dc8c895d-431f-47e9-9962-9087326ad565</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='investmentDetails.sourceOfFunds']/div</value>
+      <webElementGuid>ffec3c31-2b59-4f3e-a663-257aed7b935a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Source of Funds'])[1]/following::div[3]</value>
+      <webElementGuid>53c6040b-34ec-4966-a452-7942c40e53bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SMS'])[1]/following::div[8]</value>
+      <webElementGuid>0bb7bbb3-43ba-42ca-ad2a-187bdfba93c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Child/Spousal Support Payments'])[1]/preceding::div[6]</value>
+      <webElementGuid>5cb6e1e2-5d14-4b5f-a2b9-e66729cc9091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div/div[2]/div/div/div/div</value>
+      <webElementGuid>33c64ac4-82ce-4846-98fc-af4786cd5d91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

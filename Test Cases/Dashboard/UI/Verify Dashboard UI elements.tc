@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify UI elements are displayed correclty on the Dashboard</description>
+   <name>Verify Dashboard UI elements</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b4ded292-014a-4923-bc2d-6c8a1018f9a4</testCaseGuid>
+</TestCaseEntity>

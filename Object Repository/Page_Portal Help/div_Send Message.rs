@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Send Message</name>
+   <tag></tag>
+   <elementGuidId>844d6de9-fd04-4eb1-809f-608f0e848ff0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/main/div[2]/section/section/form/div[6]/button/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.Button_children__c7wUH</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Send Message&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d50f1105-949d-4c1f-9f6f-f5c6429f4660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Button_children__c7wUH</value>
+      <webElementGuid>3085b1ca-f3d1-4c20-ab21-f1a09d798ee7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Send Message</value>
+      <webElementGuid>2ad18df6-4ea2-46da-acef-60e1e0d5d9a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/main[@class=&quot;px-24 md:px-40&quot;]/div[@class=&quot;text-black gapped-40 pb-40&quot;]/section[@class=&quot;grid gap-40 md:grid-cols-3&quot;]/section[@class=&quot;col-span-3 sm:col-span-2 gapped-16 type-14&quot;]/form[@class=&quot;gap-20 grid  grid-cols-1 md:grid-cols-2&quot;]/div[@class=&quot;col-span-1 sm:col-span-2 flex justify-end&quot;]/button[@class=&quot;Button_button__x6lHc Button_primary__a8YrV&quot;]/div[@class=&quot;Button_children__c7wUH&quot;]</value>
+      <webElementGuid>1ec0a047-f690-4fc3-9340-fa149d3aba75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/main/div[2]/section/section/form/div[6]/button/div</value>
+      <webElementGuid>ea5b8cbb-052b-4e8e-b4aa-0b1e970a5e1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pages is taking to long to load'])[1]/following::div[2]</value>
+      <webElementGuid>5b16eb4a-6510-48cf-ab8a-f137d1d55d40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comments'])[1]/following::div[4]</value>
+      <webElementGuid>f2656b54-50b6-4e4e-a1eb-bcd8aff7bf0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookie Policy'])[1]/preceding::div[1]</value>
+      <webElementGuid>3b046357-6fd3-423b-95d8-32d6be26ee0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Legal Notices'])[1]/preceding::div[1]</value>
+      <webElementGuid>fef0ea53-f22a-46c0-af2c-f47dd5466f59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Send Message']/parent::*</value>
+      <webElementGuid>e2ece91f-2ef8-4dd7-ab3f-a39e001bc44e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>3eb2a954-5507-48af-85f6-bd35d5d97ca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Send Message' or . = 'Send Message')]</value>
+      <webElementGuid>98228079-e1be-4db7-967a-b28d0ce62a45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

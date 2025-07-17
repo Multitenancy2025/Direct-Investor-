@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Show Zeros_1</name>
+   <tag></tag>
+   <elementGuidId>3f6bb9e5-f411-4964-870a-483dd323510a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div[2]/div/header/div[2]/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Show Zeros&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>50f449b1-ce58-4149-896f-1d992e6830e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>whitespace-nowrap</value>
+      <webElementGuid>a267a59a-b437-4d5f-b540-029cb1e58c3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Show Zeros</value>
+      <webElementGuid>49e4fe6b-326b-497d-9fae-57e26a62f03c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/div[@class=&quot;px-24 md:px-40 gapped-32&quot;]/div[@class=&quot;text-black gapped-40 pb-40&quot;]/div[@class=&quot;gapped-40&quot;]/header[@class=&quot;flex w-full items-center flex-col md:flex-row justify-between gap-y-20&quot;]/div[@class=&quot;ShowToggles_showtoggles__ou07r w-full&quot;]/div[@class=&quot;flex items-center flex-col justify-center md:justify-end md:flex-row gap-8 md:gap-32 Toggle_toggle__iW_oS Toggle_pretty__m33ld&quot;]/div[@class=&quot;flex items-center gap-8 w-full md:w-auto&quot;]/span[@class=&quot;whitespace-nowrap&quot;]</value>
+      <webElementGuid>60155dcd-b9b5-427a-b9d7-0857ecdaa1ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div[2]/div/header/div[2]/div/div[2]/span</value>
+      <webElementGuid>f2968043-7fac-481f-8a52-70a68f040718</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Base Currency'])[1]/following::span[1]</value>
+      <webElementGuid>1eefe2a6-253b-4324-bff4-259fdc4220ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity Summary'])[1]/following::span[2]</value>
+      <webElementGuid>a3fa65b5-682c-4f8c-a99b-104e8bd3b4e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Employee Benefit'])[1]/preceding::span[1]</value>
+      <webElementGuid>ace2dbd8-8d54-476d-bf7e-9bcd1f1c22f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Value'])[1]/preceding::span[2]</value>
+      <webElementGuid>41bc84f5-15d2-407f-87ab-200ba765e7ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Show Zeros']/parent::*</value>
+      <webElementGuid>59d82f3b-1afd-402a-828d-fc1523b320ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/span</value>
+      <webElementGuid>567a4440-572f-4e59-bf9c-87bbbc227869</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Show Zeros' or . = 'Show Zeros')]</value>
+      <webElementGuid>8c41c494-5563-4bf1-83f6-4114b98c4470</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

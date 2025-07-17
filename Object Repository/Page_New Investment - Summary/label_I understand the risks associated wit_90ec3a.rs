@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_I understand the risks associated wit_90ec3a</name>
+   <tag></tag>
+   <elementGuidId>f9060bbc-57ae-4004-8fe2-66e9825828f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div/form/fieldset/div[3]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label >> internal:has-text=&quot;I understand the risks associated with investing. I confirm that I have received&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c90fd2cb-5193-46af-94da-8cb986c3c652</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Label_label__JdgjE transition type-14 text-neutralsDark70 flex items-center justify-start gap-xxs cursor-pointer</value>
+      <webElementGuid>ab30aada-ca36-4b08-8f7d-4d99f2e1a2fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>term_2</value>
+      <webElementGuid>dc87799f-d8e6-4eca-a2c6-f1b8dc9e050b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I understand the risks associated with investing. I confirm that I have received, noted and understand the Minimum Disclosure Documents (MDD), factsheets, and information about the fees on this investment. I have received the Effective Annual Cost (EAC) calculation and acknowledge that I can request an EAC from my product provider at any stage.</value>
+      <webElementGuid>a9d53196-115c-4b60-9911-4438aa5c5fd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/div[@class=&quot;pb-m sm:pb-l lg:pb-xl&quot;]/div[@class=&quot;gapped-20 sm:gapped-40 px-24 md:px-40&quot;]/form[@class=&quot;gapped-20&quot;]/fieldset[@class=&quot;gapped-12&quot;]/div[@class=&quot;flex flex-col gap-xs Toggle_toggle__iW_oS Toggle_checkbox__dc5D0&quot;]/div[1]/label[@class=&quot;Label_label__JdgjE transition type-14 text-neutralsDark70 flex items-center justify-start gap-xxs cursor-pointer&quot;]</value>
+      <webElementGuid>67ead7fe-7493-45e9-8aae-02b5f82351f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div/form/fieldset/div[3]/div/label</value>
+      <webElementGuid>dca78ef9-4447-482a-90c1-9523a60efea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SecurePortal'])[1]/following::label[1]</value>
+      <webElementGuid>38dfa83e-5b20-4240-924b-55f9d6262151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='personal information'])[1]/following::label[2]</value>
+      <webElementGuid>6547d69c-87bd-4d38-bab1-74b3ae106d74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Required'])[1]/preceding::label[1]</value>
+      <webElementGuid>9fa6a74e-3430-42e8-b21f-52416cf46636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/label</value>
+      <webElementGuid>aa25bd7c-7da2-43cc-842a-5bb45d05c802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'I understand the risks associated with investing. I confirm that I have received, noted and understand the Minimum Disclosure Documents (MDD), factsheets, and information about the fees on this investment. I have received the Effective Annual Cost (EAC) calculation and acknowledge that I can request an EAC from my product provider at any stage.' or . = 'I understand the risks associated with investing. I confirm that I have received, noted and understand the Minimum Disclosure Documents (MDD), factsheets, and information about the fees on this investment. I have received the Effective Annual Cost (EAC) calculation and acknowledge that I can request an EAC from my product provider at any stage.')]</value>
+      <webElementGuid>11702d60-a019-4df3-b4ad-a6dc1fe8c87e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

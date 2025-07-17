@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_I have read and fully understood the _9eae22</name>
+   <tag></tag>
+   <elementGuidId>13127cf4-8dcf-4803-9838-1cb73a50e101</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div/form/fieldset/div[2]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label >> internal:has-text=&quot;I have read and fully understood the Terms and Conditions of this product as per&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ac4aaa21-45ed-4d49-a4f7-5a02a73bd6ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Label_label__JdgjE transition type-14 text-neutralsDark70 flex items-center justify-start gap-xxs cursor-pointer</value>
+      <webElementGuid>ed951b65-b2f1-4489-8289-10c1973c79cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>term_1</value>
+      <webElementGuid>2f5bdaee-d506-4bdf-9051-015cf9981722</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I have read and fully understood the Terms and Conditions of this product as per the original application form. I have read and fully understood the information relating to the TransactOnline functionality as well as the SecurePortal Terms and Conditions of Use.</value>
+      <webElementGuid>e31804cb-929e-4d89-aa36-78d1535187e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/div[@class=&quot;pb-m sm:pb-l lg:pb-xl&quot;]/div[@class=&quot;gapped-20 sm:gapped-40 px-24 md:px-40&quot;]/form[@class=&quot;gapped-20&quot;]/fieldset[@class=&quot;gapped-12&quot;]/div[@class=&quot;flex flex-col gap-xs Toggle_toggle__iW_oS Toggle_checkbox__dc5D0&quot;]/div[1]/label[@class=&quot;Label_label__JdgjE transition type-14 text-neutralsDark70 flex items-center justify-start gap-xxs cursor-pointer&quot;]</value>
+      <webElementGuid>9e2c58c1-ec86-4ff6-8909-da46e70cf1a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div/form/fieldset/div[2]/div/label</value>
+      <webElementGuid>baa2f2b6-1b25-475b-868d-3737c0660da5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='personal information'])[1]/following::label[1]</value>
+      <webElementGuid>4794f69b-0bdb-4616-99a3-f30fd04d0c2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R 10 000,00'])[3]/following::label[2]</value>
+      <webElementGuid>6b2f9b82-71b7-4c94-be56-f49d8b4f8b99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Required'])[1]/preceding::label[1]</value>
+      <webElementGuid>c25abc80-1c19-4f47-90ab-36aad559f8c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label</value>
+      <webElementGuid>575c45a0-534a-4066-ac81-f6761e1dbe71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'I have read and fully understood the Terms and Conditions of this product as per the original application form. I have read and fully understood the information relating to the TransactOnline functionality as well as the SecurePortal Terms and Conditions of Use.' or . = 'I have read and fully understood the Terms and Conditions of this product as per the original application form. I have read and fully understood the information relating to the TransactOnline functionality as well as the SecurePortal Terms and Conditions of Use.')]</value>
+      <webElementGuid>fc073a40-5a02-4095-b098-3ebca0336859</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

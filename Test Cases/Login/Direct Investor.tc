@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Direct Investor user can login</description>
+   <name>Direct Investor</name>
+   <tag>Sanity</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>177542c7-84e6-4c59-9550-7fdd3f75081c</testCaseGuid>
+</TestCaseEntity>

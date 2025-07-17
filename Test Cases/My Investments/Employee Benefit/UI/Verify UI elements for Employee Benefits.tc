@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify UI elements for Employee Benefits</description>
+   <name>Verify UI elements for Employee Benefits</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e1adaf7a-590d-4be7-b5c1-bca8715dce90</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Show Base Currency</name>
+   <tag></tag>
+   <elementGuidId>3492daf0-fd59-4762-af85-edc604863058</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.whitespace-nowrap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div[2]/div/div/div/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Show Base Currency&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>68f9e3f3-f0e3-4297-aaf2-edc90ca12978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>whitespace-nowrap</value>
+      <webElementGuid>8cd3642f-4b59-4db9-906e-030299568c5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Show Base Currency</value>
+      <webElementGuid>6b2f9837-7f26-4917-a4c8-03694bccf19b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/div[@class=&quot;px-24 md:px-40 gapped-32&quot;]/div[@class=&quot;text-black gapped-40 pb-40&quot;]/div[@class=&quot;gapped-40&quot;]/div[@class=&quot;gapped-12&quot;]/div[@class=&quot;flex flex-row-reverse items-center gap-y-20 w-full pb-20&quot;]/div[@class=&quot;ShowToggles_showtoggles__ou07r w-full&quot;]/div[@class=&quot;flex items-center flex-col justify-center md:justify-end md:flex-row gap-8 md:gap-32 Toggle_toggle__iW_oS Toggle_pretty__m33ld&quot;]/div[@class=&quot;flex items-center gap-8 w-full md:w-auto&quot;]/span[@class=&quot;whitespace-nowrap&quot;]</value>
+      <webElementGuid>99652525-cdc7-4b4c-9f17-9651f778b84a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div[2]/div/div/div/div/div/div/span</value>
+      <webElementGuid>a939f80e-0232-4c4e-b964-bb7f228d42f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity Summary'])[1]/following::span[1]</value>
+      <webElementGuid>32945f86-a6c1-462b-9077-132409d868fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Investor Reporting'])[1]/following::span[1]</value>
+      <webElementGuid>20cc3be9-813c-412e-a211-dc7adc8a2d99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Zeros'])[1]/preceding::span[1]</value>
+      <webElementGuid>a3cb4195-e207-43c3-be64-351ccaa010b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescient Centralised Services (Pty) Ltd (Prescient Umbrella Provident Fund)'])[1]/preceding::span[2]</value>
+      <webElementGuid>5c2f01e8-565c-4564-8aec-f565eaedfc0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Show Base Currency']/parent::*</value>
+      <webElementGuid>b98f8103-8a87-4c07-913c-b8048b7336d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/span</value>
+      <webElementGuid>312bf016-2eaf-4005-b8d1-31a2647ff59b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Show Base Currency' or . = 'Show Base Currency')]</value>
+      <webElementGuid>3edcd355-e570-4311-8944-c7442d1095a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

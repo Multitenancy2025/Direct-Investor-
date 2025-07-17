@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can create a switch</description>
+   <name>Verify that user can create a switch</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7e8f35d1-ca03-45c4-a2bb-3c751261e6b4</testCaseGuid>
+</TestCaseEntity>

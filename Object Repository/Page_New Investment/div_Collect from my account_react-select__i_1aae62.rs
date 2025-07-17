@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Collect from my account_react-select__i_1aae62</name>
+   <tag></tag>
+   <elementGuidId>ef2429e6-fbb1-49bc-b9e0-5c7cd5b64122</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='payments.lumpSum.type']/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-select__indicator.react-select__dropdown-indicator.css-15lsz6c-indicatorContainer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;payments\.lumpSum\.type&quot;] > .react-select__control > .react-select__indicators > .react-select__indicator</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>44851759-4e81-4ecd-8464-aa431d2c4911</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__indicator react-select__dropdown-indicator css-15lsz6c-indicatorContainer</value>
+      <webElementGuid>a42f4894-e959-4380-bd8d-1fc62bba2671</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>1dc80db0-6511-4099-bbfd-3658df674a41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;payments.lumpSum.type&quot;)/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-t3ipsp-control&quot;]/div[@class=&quot;react-select__indicators css-1wy0on6&quot;]/div[@class=&quot;react-select__indicator react-select__dropdown-indicator css-15lsz6c-indicatorContainer&quot;]</value>
+      <webElementGuid>438fe9bc-3133-489c-b1f4-e8fc6d7c2bbc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='payments.lumpSum.type']/div/div[2]/div</value>
+      <webElementGuid>b71aa8f9-4a8c-4116-8593-ea59a2206d42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collect from my account'])[1]/following::div[3]</value>
+      <webElementGuid>debb56d1-9375-4d99-a9aa-6abf03c1e19b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Type'])[1]/following::div[8]</value>
+      <webElementGuid>bbb6585f-bbea-4e81-91d8-3cc6bb7b93b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collect from my account'])[2]/preceding::div[1]</value>
+      <webElementGuid>9714e4ba-4117-4d0f-8662-81a93d5f82f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EFT'])[1]/preceding::div[2]</value>
+      <webElementGuid>38ddf622-82cc-4ce4-a79e-4f2fc215535b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>b29d2c40-031e-41cc-b403-dde3364d532c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

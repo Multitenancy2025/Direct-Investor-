@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify user can navigate to Contribute from the Dashboard</description>
+   <name>Verify user can navigate to Contribute</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>94051914-16e8-4aa6-bde2-c4989ecc4319</testCaseGuid>
+</TestCaseEntity>

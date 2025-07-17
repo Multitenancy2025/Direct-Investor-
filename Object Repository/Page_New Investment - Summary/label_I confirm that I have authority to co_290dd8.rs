@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_I confirm that I have authority to co_290dd8</name>
+   <tag></tag>
+   <elementGuidId>ee5e8264-e608-49ab-9fad-6ba059cfd0e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div/form/fieldset/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.Label_label__JdgjE.transition.type-14.text-neutralsDark70.flex.items-center.justify-start.gap-xxs.cursor-pointer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label >> internal:has-text=&quot;I confirm that I have authority to conclude this transaction on this investment.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>248a00e3-2ff3-4a2e-a5f3-7d9a500ccc30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Label_label__JdgjE transition type-14 text-neutralsDark70 flex items-center justify-start gap-xxs cursor-pointer</value>
+      <webElementGuid>24b8b95c-a3b6-407d-8e04-99274ae8011a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>term_0</value>
+      <webElementGuid>8ae79173-0c61-4ac9-81cc-ea3b883f3a29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I confirm that I have authority to conclude this transaction on this investment. All the details supplied are correct and up-to-date. I have informed my product provider of any changes in my personal information or contact details including (but not limited to) change of address, tax residency and disclosure requirements and any changes in my status as a Domestic Prominent Influential Person (DPIP) or Foreign Prominent Public Official (FPPO).</value>
+      <webElementGuid>72fde1e4-21d4-42d1-95bd-1578149e8dc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/div[@class=&quot;pb-m sm:pb-l lg:pb-xl&quot;]/div[@class=&quot;gapped-20 sm:gapped-40 px-24 md:px-40&quot;]/form[@class=&quot;gapped-20&quot;]/fieldset[@class=&quot;gapped-12&quot;]/div[@class=&quot;flex flex-col gap-xs Toggle_toggle__iW_oS Toggle_checkbox__dc5D0&quot;]/div[1]/label[@class=&quot;Label_label__JdgjE transition type-14 text-neutralsDark70 flex items-center justify-start gap-xxs cursor-pointer&quot;]</value>
+      <webElementGuid>fc018070-013e-49d0-9dbb-e8015826b777</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div/form/fieldset/div/div/label</value>
+      <webElementGuid>6a5e5005-f364-4ab7-b07f-a2f4acafb327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R 10 000,00'])[3]/following::label[1]</value>
+      <webElementGuid>ccef5405-5a2a-4636-a159-18ec747b820d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::label[1]</value>
+      <webElementGuid>25f7d0ef-a5b8-45f4-b9c4-28ca4aa14c84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Required'])[1]/preceding::label[1]</value>
+      <webElementGuid>61352cce-5d15-4c9a-b906-85a863886b73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>df516592-67ea-4a78-ae8c-7ccb8e1debdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'I confirm that I have authority to conclude this transaction on this investment. All the details supplied are correct and up-to-date. I have informed my product provider of any changes in my personal information or contact details including (but not limited to) change of address, tax residency and disclosure requirements and any changes in my status as a Domestic Prominent Influential Person (DPIP) or Foreign Prominent Public Official (FPPO).' or . = 'I confirm that I have authority to conclude this transaction on this investment. All the details supplied are correct and up-to-date. I have informed my product provider of any changes in my personal information or contact details including (but not limited to) change of address, tax residency and disclosure requirements and any changes in my status as a Domestic Prominent Influential Person (DPIP) or Foreign Prominent Public Official (FPPO).')]</value>
+      <webElementGuid>84225d7f-8d94-4b10-a41c-b9605f48ea2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

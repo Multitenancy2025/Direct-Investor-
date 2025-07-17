@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_Select the funds you would like to us_e86039</name>
+   <tag></tag>
+   <elementGuidId>1d67aab9-fc14-4caa-a657-de6d861935c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[2]/form/div[3]/div[2]/div/div/div/div/div/small</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>small.text-neutralsDark70</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Select the funds you would like to use. You can select multiple funds.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>e937579e-4bca-4fe0-aefc-bbebb4136c57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-neutralsDark70</value>
+      <webElementGuid>322d74ff-c9cb-480e-9305-0a6b84ec8b8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Select the funds you would like to use. You can select multiple funds.</value>
+      <webElementGuid>5f0a6d91-145f-4bab-8eed-7b4815a71ea0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/div[@class=&quot;pb-m sm:pb-l lg:pb-xl&quot;]/form[@class=&quot;gapped-20&quot;]/div[3]/div[2]/div[@class=&quot;py-20 md:py-40 gapped-20 md:gapped-40&quot;]/div[1]/div[@class=&quot;gapped-32&quot;]/div[@class=&quot;px-24 md:px-40 gapped-32&quot;]/div[@class=&quot;SelectField_select__orkdd&quot;]/small[@class=&quot;text-neutralsDark70&quot;]</value>
+      <webElementGuid>52c0662a-ef10-4715-8bb1-69ca5ad4de36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/form/div[3]/div[2]/div/div/div/div/div/small</value>
+      <webElementGuid>587c95ec-a4df-4ddb-ad42-4e30e430446c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescient Yield Quantplus Fund- A2'])[1]/following::small[1]</value>
+      <webElementGuid>a4f9dc73-d894-42d6-bb40-36ccbe54db6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescient SA Income Provider Fund - A2'])[1]/following::small[1]</value>
+      <webElementGuid>8f170d9e-8538-488d-a1a0-9bea2cd01cc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[3]/preceding::small[1]</value>
+      <webElementGuid>2ec54128-4ffc-45c2-b713-5b10a6b71708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payments'])[1]/preceding::small[1]</value>
+      <webElementGuid>330237bd-4f5c-42ae-a7fc-9afa79dfd645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select the funds you would like to use. You can select multiple funds.']/parent::*</value>
+      <webElementGuid>f429f61c-ee49-4c12-b548-9906b8502b09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//small</value>
+      <webElementGuid>b38de9dc-9cae-48d5-a0c3-eeb22a671576</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = ' Select the funds you would like to use. You can select multiple funds.' or . = ' Select the funds you would like to use. You can select multiple funds.')]</value>
+      <webElementGuid>13ec29c0-6cc9-49e9-b83e-239c77fce2ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

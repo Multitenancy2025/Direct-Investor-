@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_2196</name>
+   <tag></tag>
+   <elementGuidId>806fd34c-b1e8-45f4-8f55-73d94408aa9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div/div[2]/div[2]/div[2]/div[3]/p[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.type-14.text-neutralsDark60.m-0.pb-20</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;2196&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c67572b1-ef9d-4623-9e01-44d98d969d40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>type-14 text-neutralsDark60 m-0  pb-20</value>
+      <webElementGuid>059d0208-317b-47b2-b92c-d5dc3dc98d32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2196</value>
+      <webElementGuid>7d287cab-5452-4a82-885a-1f652ae8d8e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/div[@class=&quot;px-24 md:px-40 pb-xl&quot;]/div[@class=&quot;grid grid-cols-3 gap-40 pt-20&quot;]/div[@class=&quot;col-span-3 sm:col-span-2 gapped-28&quot;]/div[2]/div[@class=&quot;p-20 md:p-24 border border-neutralsDark10 grid grid-cols-2 lg:grid-cols-3 gap-32&quot;]/div[@class=&quot;col-span-3 sm:col-span-1&quot;]/p[@class=&quot;type-14 text-neutralsDark60 m-0  pb-20&quot;]</value>
+      <webElementGuid>56e401d3-54ce-4a4f-9e3f-ca4b088f717c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div/div[2]/div[2]/div[2]/div[3]/p[4]</value>
+      <webElementGuid>95504b7b-ed7e-43b8-94cc-70a21ed33103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postal Address'])[1]/following::p[4]</value>
+      <webElementGuid>6d3361fd-8664-4985-8673-1ad12227eff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Physical Address'])[2]/following::p[8]</value>
+      <webElementGuid>68564b0b-cbaf-45c7-8916-242413830db9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stellenbosch Office'])[1]/preceding::p[1]</value>
+      <webElementGuid>5d8ea059-d40a-45cf-8cac-4769e82396ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Details'])[3]/preceding::p[1]</value>
+      <webElementGuid>9f4553ac-3390-479a-95e9-1af48f562f5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/p[4]</value>
+      <webElementGuid>cd3f254a-1f88-4f6f-b9b6-0d5867b48af4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '2196' or . = '2196')]</value>
+      <webElementGuid>aac1310a-8e2b-4b0f-97e6-1c8c0bf99ce4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

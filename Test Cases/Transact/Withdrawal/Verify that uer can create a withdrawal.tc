@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that uer can create a withdrawal</description>
+   <name>Verify that uer can create a withdrawal</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8a78cbfa-1644-4681-a6ff-71c881d71ff4</testCaseGuid>
+</TestCaseEntity>

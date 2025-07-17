@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Prescient Balanced Fund</name>
+   <tag></tag>
+   <elementGuidId>069c0c6c-56ec-4c4b-badd-ce349f8e0ad9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div[2]/section/section/div/div[2]/div/div/div/button[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Prescient Balanced Fund&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b2a6928d-bcc1-4ea1-9517-8f78aeee854d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Button_children__c7wUH</value>
+      <webElementGuid>0f37c560-fda7-4d1f-9574-8a28fd438d01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Prescient Balanced Fund</value>
+      <webElementGuid>2822f0a9-fb55-4649-8c3e-f74af057f875</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/div[@class=&quot;px-24 md:px-40&quot;]/div[@class=&quot;text-black gapped-40 pb-40&quot;]/section[@class=&quot;grid gap-40 md:grid-cols-3&quot;]/section[@class=&quot;col-span-3 sm:col-span-2 gapped-16 type-14&quot;]/div[1]/div[2]/div[@class=&quot;p-20 md:p-24 border border-neutralsDark10&quot;]/div[1]/div[@class=&quot;flex flex-col&quot;]/button[@class=&quot;Button_button__x6lHc Button_naked__nE_XJ type-16 FileDownloadButton_block__T1q1u FileDownloadButton_filedownloadbutton__A_FaE&quot;]/div[@class=&quot;Button_children__c7wUH&quot;]</value>
+      <webElementGuid>db1e7c66-9419-4bb8-97a6-928510af3dd2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div[2]/section/section/div/div[2]/div/div/div/button[3]/div</value>
+      <webElementGuid>7fb31465-5de9-4bfe-88dd-80dfc31641ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescient Absolute Balanced Fund'])[1]/following::div[1]</value>
+      <webElementGuid>082a4918-f904-4c49-9192-9b3948aa7dc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescient Core Top 40 Equity Fund'])[1]/following::div[4]</value>
+      <webElementGuid>1cf03453-296b-40a5-af3a-2625c0d8242c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescient Defensive Fund'])[1]/preceding::div[3]</value>
+      <webElementGuid>1ae59d0f-432a-4853-8329-015b372e15af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescient China Balanced Fund'])[1]/preceding::div[6]</value>
+      <webElementGuid>4a5724be-229b-4725-8cb5-161defd3db3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Prescient Balanced Fund']/parent::*</value>
+      <webElementGuid>d49b4571-2428-4705-b078-06448f734cac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/div</value>
+      <webElementGuid>9120904d-e120-4911-8d48-f213b9d3ef14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Prescient Balanced Fund' or . = 'Prescient Balanced Fund')]</value>
+      <webElementGuid>f2c05ea1-cdee-47e6-a5c6-b4c8f57cd04a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

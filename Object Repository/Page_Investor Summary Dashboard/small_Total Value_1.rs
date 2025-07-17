@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_Total Value_1</name>
+   <tag></tag>
+   <elementGuidId>0d3bd819-5282-40a2-8459-69123286b81a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/main/article/article/section/section/div/div/small</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>small.text-neutralsDark100</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>section >> internal:has-text=&quot;Total InvestmentsTotal ValueR 6 577 083,67&quot;i >> small</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>379984cd-238a-4da2-96a0-e58a6137934c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-neutralsDark100</value>
+      <webElementGuid>8cced570-a083-43ca-900f-f156f877886e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Total Value</value>
+      <webElementGuid>cb954624-b75e-4e82-8d1a-c215b8458ed0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/main[@class=&quot;px-24 md:px-40&quot;]/article[@class=&quot;InvestmentCardsGrid_investmentcards__FBemY&quot;]/article[@class=&quot;Card_card__X8yAr m-0 p-0 max-w-none Card_highlighted__rw_iS&quot;]/section[@class=&quot;h-full&quot;]/section[@class=&quot;Card_cardbody__BkO94 p-24 items-end&quot;]/div[@class=&quot;flex flex-col items-start gap-12 sm:flex-row sm:justify-between sm:items-end&quot;]/div[1]/small[@class=&quot;text-neutralsDark100&quot;]</value>
+      <webElementGuid>cf01f2f7-cf0b-411e-8c8b-29ad29185ba3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/main/article/article/section/section/div/div/small</value>
+      <webElementGuid>b490849a-8b63-45a1-b94c-170124ba60f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Investments'])[1]/following::small[1]</value>
+      <webElementGuid>4315d9d8-a082-4a0e-8a17-e081d8a2fd99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NML'])[1]/following::small[1]</value>
+      <webElementGuid>d8018e61-5b24-43ec-aaa1-eaeff2454c80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R 6 577 083,67'])[1]/preceding::small[1]</value>
+      <webElementGuid>a85adba8-3082-4791-aac0-257bca568f70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit Trust Investments'])[1]/preceding::small[1]</value>
+      <webElementGuid>c884762f-a6b8-4b12-af96-2212ecf9ab4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Total Value']/parent::*</value>
+      <webElementGuid>876a3ff4-0838-4f86-a8b8-4fcd30efe606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//small</value>
+      <webElementGuid>2cb74581-29e1-4158-ade9-a542a2a312c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = 'Total Value' or . = 'Total Value')]</value>
+      <webElementGuid>c516d7b8-c865-4457-8153-7774e2036be0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

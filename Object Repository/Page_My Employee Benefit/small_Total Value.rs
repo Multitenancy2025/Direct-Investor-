@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_Total Value</name>
+   <tag></tag>
+   <elementGuidId>447aa372-0097-4f46-99d7-fa7e992a5693</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>small.text-neutralsDark100</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div[2]/div/main/header/section/article/section/section/div/div/small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Total Value&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>128dc631-884e-4087-a4bf-be0200c8498e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-neutralsDark100</value>
+      <webElementGuid>eade591b-b91e-4bf1-abf0-1fa41dd2c5f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Total Value</value>
+      <webElementGuid>e89ae1ac-2632-4d24-b03a-dcbf90280da4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/div[@class=&quot;px-24 md:px-40 gapped-32&quot;]/div[@class=&quot;text-black gapped-40 pb-40&quot;]/div[@class=&quot;gapped-40&quot;]/main[@class=&quot;gapped-40&quot;]/header[@class=&quot;grid grid-cols-6 gap-20&quot;]/section[@class=&quot;col-span-6 sm:col-span-3 lg:col-span-2&quot;]/article[@class=&quot;Card_card__X8yAr m-0 p-0 max-w-none Card_highlighted__rw_iS&quot;]/section[@class=&quot;h-full&quot;]/section[@class=&quot;Card_cardbody__BkO94 p-24 items-end&quot;]/div[@class=&quot;flex flex-col items-start gap-12 sm:flex-row sm:justify-between sm:items-end&quot;]/div[1]/small[@class=&quot;text-neutralsDark100&quot;]</value>
+      <webElementGuid>e999faaa-08cd-4f92-8436-4d5edc6a7428</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div[2]/div/main/header/section/article/section/section/div/div/small</value>
+      <webElementGuid>9fb87801-29d8-481a-89a4-31226d18ac27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Employee Benefit'])[1]/following::small[1]</value>
+      <webElementGuid>76e25f8d-fad1-4491-b6c4-9a30ddba4d2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Zeros'])[1]/following::small[1]</value>
+      <webElementGuid>f71d5bed-c41d-4ed7-8660-d7c53a41d1da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R 2 809 753,24'])[1]/preceding::small[1]</value>
+      <webElementGuid>5240bee8-7296-4001-967d-5f354c3baa9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Total Value']/parent::*</value>
+      <webElementGuid>1c5d5581-8102-468a-a264-6fbba2a2dd5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//small</value>
+      <webElementGuid>3984171e-b0e1-4fa9-b1b1-2f50e197641d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = 'Total Value' or . = 'Total Value')]</value>
+      <webElementGuid>064be477-cb6f-448a-b55a-3787a1e03135</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

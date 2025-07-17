@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Ireland</name>
+   <tag></tag>
+   <elementGuidId>6a8c66d9-6c2f-4166-8e49-ea9b2b89c014</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div/div[2]/div[5]/div[2]/div[2]/div/p[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Ireland&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1c86f4e8-67ff-4734-8351-3f11cc23cd9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>type-14 text-neutralsDark60 m-0</value>
+      <webElementGuid>72721a74-412a-4035-86eb-1de319f6869a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ireland</value>
+      <webElementGuid>ecdac08f-c50b-4a3c-b63d-25e67735cfbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/div[@class=&quot;px-24 md:px-40 pb-xl&quot;]/div[@class=&quot;grid grid-cols-3 gap-40 pt-20&quot;]/div[@class=&quot;col-span-3 sm:col-span-2 gapped-28&quot;]/div[5]/div[@class=&quot;p-20 md:p-24 border border-neutralsDark10 grid grid-cols-2 lg:grid-cols-3 gap-32&quot;]/div[@class=&quot;col-span-3 sm:col-span-1&quot;]/div[@class=&quot;col-span-3 sm:col-span-1&quot;]/p[@class=&quot;type-14 text-neutralsDark60 m-0&quot;]</value>
+      <webElementGuid>798fb5e9-c938-4f46-aebf-0c4211ef3eed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div/div[2]/div[5]/div[2]/div[2]/div/p[3]</value>
+      <webElementGuid>594fdb12-5929-42cd-8f9b-e151d6731a9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Physical Address'])[5]/following::p[3]</value>
+      <webElementGuid>3876f28e-bfdc-4526-b1f7-ad56f1192828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fax: +353 1 662 4276'])[1]/following::p[3]</value>
+      <webElementGuid>2524c592-6631-4178-a955-d9f94f142af0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postal Address'])[3]/preceding::p[1]</value>
+      <webElementGuid>28693b4d-bba2-4685-b4cf-1ed13f723a74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookie Policy'])[1]/preceding::p[5]</value>
+      <webElementGuid>578e3a35-dcd3-4b58-b6d6-e7bd0dcdc522</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ireland']/parent::*</value>
+      <webElementGuid>ba340f94-01fb-4daf-aeb0-bc84f0e02fbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div[2]/div/p[3]</value>
+      <webElementGuid>be331c1a-4f31-4c88-bef3-ec976438f092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Ireland' or . = 'Ireland')]</value>
+      <webElementGuid>36172f51-6ad1-4611-8b6a-220ed006393f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

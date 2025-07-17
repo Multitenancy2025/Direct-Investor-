@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify user can create South African Tax Free Savings Account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>55b2e1bf-0747-410a-bcc4-302d1f965b78</testCaseGuid>
+</TestCaseEntity>

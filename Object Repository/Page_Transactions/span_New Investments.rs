@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_New Investments</name>
+   <tag></tag>
+   <elementGuidId>b17d0517-b153-4ca4-b22c-dad57dbf62d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[2]/section/section/div/a/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;New Investments&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>06db0b00-711c-4bc9-843b-c1394b67ba41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-textButton</value>
+      <webElementGuid>2a67e28b-5779-4c4f-a913-2539a3ab3c7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Investments</value>
+      <webElementGuid>2e312586-c1e6-43b3-aa55-6cad10618a03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/div[@class=&quot;px-24 md:px-40&quot;]/section[@class=&quot;grid gap-40 md:grid-cols-3&quot;]/section[@class=&quot;col-span-3 sm:col-span-2 gapped-16 type-14&quot;]/div[@class=&quot;col-span-2 grid xs:grid-cols-2 2xl:grid-cols-4 gap-20&quot;]/a[1]/span[@class=&quot;LaunchPadBlock_large__IJBjE flex-col bg-neutralsDark10 border-neutralsLightWhite border-1.5 hover:border-neutralsDark20 transition px-16 flex gap-12 items-center justify-center text-center LaunchPadBlock_launchpadblock__YHmyz&quot;]/span[@class=&quot;text-textButton&quot;]</value>
+      <webElementGuid>4dd13d9c-f453-4d98-a11c-fe9a0a852eb9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/section/section/div/a/span/span</value>
+      <webElementGuid>b8575be7-11f7-4b60-904f-0d03d4a89db7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Withdraw'])[1]/following::span[3]</value>
+      <webElementGuid>4d70002d-f7d7-4f3c-aa3a-aeba68b6cb3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contribution'])[1]/preceding::span[1]</value>
+      <webElementGuid>a2ffb297-fbe6-43c9-a15d-36fdaa06bf31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Switch'])[2]/preceding::span[3]</value>
+      <webElementGuid>196ec9e9-9dac-4d3f-a82a-3725b814507f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New Investments']/parent::*</value>
+      <webElementGuid>dfe32878-47f6-451c-9403-80a2fe10a67e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span/span</value>
+      <webElementGuid>7c4bdf49-3977-48c7-bf53-9697edf4baab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'New Investments' or . = 'New Investments')]</value>
+      <webElementGuid>4089a770-a8ad-477b-b41b-ac69bb334d2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

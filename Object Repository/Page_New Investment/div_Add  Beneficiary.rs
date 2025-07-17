@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add  Beneficiary</name>
+   <tag></tag>
+   <elementGuidId>4bead0e3-6916-4270-926e-1d32013e6fea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[2]/form/div[4]/div[2]/div/div/div/div/div/div/div[2]/button/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.Button_button__x6lHc.Button_outline-secondary__0EJyK.Button_small__Z0wCI > div.Button_children__c7wUH</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Add Beneficiary&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f7f219b1-6b67-4776-aa38-3420072b375f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Button_children__c7wUH</value>
+      <webElementGuid>c9008e6b-cdf9-4039-a5c1-0590a156780a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add  Beneficiary</value>
+      <webElementGuid>b38b03b7-5e82-436a-8b9f-f8ac21d2e828</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/div[@class=&quot;pb-m sm:pb-l lg:pb-xl&quot;]/form[@class=&quot;gapped-20&quot;]/div[@class=&quot;px-24 md:px-40&quot;]/div[2]/div[@class=&quot;py-20 md:py-40 gapped-20 md:gapped-40&quot;]/div[1]/div[@class=&quot;gapped-32&quot;]/div[1]/div[@class=&quot;gapped-20&quot;]/div[@class=&quot;grid grid-cols-2 items-center pt-12&quot;]/div[@class=&quot;text-right&quot;]/button[@class=&quot;Button_button__x6lHc Button_outline-secondary__0EJyK Button_small__Z0wCI&quot;]/div[@class=&quot;Button_children__c7wUH&quot;]</value>
+      <webElementGuid>32971576-ad2c-4781-bb81-d3b13ba1412b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/form/div[4]/div[2]/div/div/div/div/div/div/div[2]/button/div</value>
+      <webElementGuid>3712cfac-b3cc-4b71-b370-67d51e3036a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::div[10]</value>
+      <webElementGuid>abacc5b8-ccfa-44dc-b8db-90152c05c325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beneficiaries'])[1]/following::div[11]</value>
+      <webElementGuid>3c92b180-8102-4c5c-a77d-d3bde4fe7bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[4]/preceding::div[1]</value>
+      <webElementGuid>4396dd90-384d-4d03-88cb-3e7290329577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payments'])[1]/preceding::div[4]</value>
+      <webElementGuid>881d6443-5a8c-45c8-ad53-7f7553e16950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add']/parent::*</value>
+      <webElementGuid>ccf4435c-367c-4379-bf04-af8398d40c66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/div</value>
+      <webElementGuid>83e7f21b-88da-4ef3-8804-a0c42d197281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Add  Beneficiary' or . = ' Add  Beneficiary')]</value>
+      <webElementGuid>83f26d22-0229-49a2-a0ee-630788372b1c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

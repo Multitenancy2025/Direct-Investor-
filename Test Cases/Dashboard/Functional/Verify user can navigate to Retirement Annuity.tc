@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify user can navigate to Retirement Annuity from the dashboard</description>
+   <name>Verify user can navigate to Retirement Annuity</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0b5313e9-c05b-497c-adcb-83e2b43061b9</testCaseGuid>
+</TestCaseEntity>

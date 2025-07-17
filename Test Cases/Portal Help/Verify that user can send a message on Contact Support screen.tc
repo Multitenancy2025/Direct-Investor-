@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can send a message on Contact Support screen</description>
+   <name>Verify that user can send a message on Contact Support screen</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d329ad3b-e457-4f8f-ba00-1c0a111e06f4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify user can navigate to Employee Benefit from the Dashboard</description>
+   <name>Verify user can navigate to Employee Benefit</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>daea0773-1c3b-4f41-80ba-886c739b06e7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select_react-select__indicator react-se_e5b04d</name>
+   <tag></tag>
+   <elementGuidId>52abe884-194f-4d74-a3e4-8cf668f52c64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='investmentDetails.sourceOfFunds']/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-select__indicator.react-select__dropdown-indicator.css-15lsz6c-indicatorContainer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;investmentDetails\.sourceOfFunds&quot;] > .react-select__control > .react-select__indicators > .react-select__indicator</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3df4fbf7-2273-46d3-b7a0-de8b0602ff24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__indicator react-select__dropdown-indicator css-15lsz6c-indicatorContainer</value>
+      <webElementGuid>3b56ab07-f33f-42a0-b8de-ba51731bf99a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0a6311f6-ceca-425a-a1db-08e4415e3967</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;investmentDetails.sourceOfFunds&quot;)/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-t3ipsp-control&quot;]/div[@class=&quot;react-select__indicators css-1wy0on6&quot;]/div[@class=&quot;react-select__indicator react-select__dropdown-indicator css-15lsz6c-indicatorContainer&quot;]</value>
+      <webElementGuid>d24d9b6b-5c16-4553-902a-c095808b8477</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='investmentDetails.sourceOfFunds']/div/div[2]/div</value>
+      <webElementGuid>8dfeab75-3e2f-404c-8ea2-e94b58aaaf13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select...'])[2]/following::div[3]</value>
+      <webElementGuid>1b7e3384-f92e-4d30-9192-3f454a3f90b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Source of Funds'])[1]/following::div[8]</value>
+      <webElementGuid>d14d3ef4-1e4b-4034-98f9-c169caa3285a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Child/Spousal Support Payments'])[1]/preceding::div[1]</value>
+      <webElementGuid>7c4461d0-aee6-4bde-8540-0428b07fbf90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gifts/Inheritance/Donations'])[1]/preceding::div[2]</value>
+      <webElementGuid>29ab5eb1-f87e-448a-a2e4-48be88999ca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div/div[2]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>28e30968-dbc9-46ed-9b8c-ecf6930b21f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

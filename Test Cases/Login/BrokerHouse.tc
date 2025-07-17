@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that Broker can login</description>
+   <name>BrokerHouse</name>
+   <tag>Sanity</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fec6ba6b-808f-4607-821a-3fdedb8688d2</testCaseGuid>
+</TestCaseEntity>

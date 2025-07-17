@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify user can navigate to New Investments from the Dashboard</description>
+   <name>Verify user can navigate to New Investments</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7520e8cd-8f0f-4bba-b38f-90d9c6cea7e9</testCaseGuid>
+</TestCaseEntity>

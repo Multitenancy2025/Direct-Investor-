@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify user can navigate to switch from the Dashboard</description>
+   <name>Verify user can navigate to switch</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3feaa9af-5e5a-4dd0-ad18-ea89ed1a718e</testCaseGuid>
+</TestCaseEntity>

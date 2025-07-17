@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can download documents</description>
+   <name>Verify that user can download documents _Global Funds ICAV - Static Data Amendment Form</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e2457a0c-76ba-4434-a610-62ac3b0c5360</testCaseGuid>
+</TestCaseEntity>

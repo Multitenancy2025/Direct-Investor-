@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Ireland_1</name>
+   <tag></tag>
+   <elementGuidId>88a6acaf-a1bb-4dac-a82c-3254d6189ce9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div/div[2]/div[5]/div[2]/div[3]/p[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Ireland&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e4ea28b7-ab62-4c2b-b02d-4f8f8b2d2cb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>type-14 text-neutralsDark60 m-0  pb-20</value>
+      <webElementGuid>4eec674d-313d-4501-9144-fdaa721dfb27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ireland</value>
+      <webElementGuid>d179b178-5c64-498a-b6b2-6cce198b2456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/div[@class=&quot;px-24 md:px-40 pb-xl&quot;]/div[@class=&quot;grid grid-cols-3 gap-40 pt-20&quot;]/div[@class=&quot;col-span-3 sm:col-span-2 gapped-28&quot;]/div[5]/div[@class=&quot;p-20 md:p-24 border border-neutralsDark10 grid grid-cols-2 lg:grid-cols-3 gap-32&quot;]/div[@class=&quot;col-span-3 sm:col-span-1&quot;]/p[@class=&quot;type-14 text-neutralsDark60 m-0  pb-20&quot;]</value>
+      <webElementGuid>8ac16bcc-76b5-4817-bc43-9dc854e41b1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div/div[2]/div[5]/div[2]/div[3]/p[3]</value>
+      <webElementGuid>6910151a-3d5c-4805-8873-51fc498acaeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postal Address'])[3]/following::p[3]</value>
+      <webElementGuid>c31cb214-a58c-467d-a588-72026e0980ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Physical Address'])[5]/following::p[6]</value>
+      <webElementGuid>014f56cf-0235-402d-aaac-d9055e2197e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookie Policy'])[1]/preceding::p[2]</value>
+      <webElementGuid>72763ad2-ceb9-46ba-a958-c2f632468101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Legal Notices'])[1]/preceding::p[2]</value>
+      <webElementGuid>e0173c01-0151-4251-ab09-399ad1a89fa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div[3]/p[3]</value>
+      <webElementGuid>8a22a430-ba5c-409b-b76a-ff3c1219a3d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Ireland' or . = 'Ireland')]</value>
+      <webElementGuid>7ac1f736-3290-4d6a-ad01-198b244ac5d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

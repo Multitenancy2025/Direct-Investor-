@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify UI elements on My instructions screen</description>
+   <name>Verify UI elements on My instructions screen_Retirement Annuity</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>47d3dca0-dacd-47b7-9888-b2e82e0894d9</testCaseGuid>
+</TestCaseEntity>

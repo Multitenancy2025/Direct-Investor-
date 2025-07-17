@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify user can create Retirement Annuity Fund</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>805039d8-fde9-4586-86e6-a0216f194cdc</testCaseGuid>
+</TestCaseEntity>

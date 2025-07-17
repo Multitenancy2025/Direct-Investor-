@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can create a contribution</description>
+   <name>Verify that user can create a contribution</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e0498d10-d3c4-4337-8bc2-e85ced12c77a</testCaseGuid>
+</TestCaseEntity>

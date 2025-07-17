@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Units</name>
+   <tag></tag>
+   <elementGuidId>3ead0cf7-abd2-4852-b076-aafc24a8f036</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.InvestmentActionRow_units__c8KnO > span.InvestmentActionRow_label__15guG</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div[2]/div/div/div[2]/div/div/div/span[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span >> internal:has-text=&quot;Units315 731,4453&quot;i >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9ab38868-5cd7-46e3-b48b-c89bdeab0caa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>InvestmentActionRow_label__15guG</value>
+      <webElementGuid>6db9a989-bfcb-4e84-968c-6dda95815537</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Units</value>
+      <webElementGuid>f17ece73-4a6a-47f8-82e5-f3b95f5f4dda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;Page_page__6zv7h&quot;]/main[@class=&quot;Page_main__TY1Ck&quot;]/div[@class=&quot;max-w-wide&quot;]/div[@class=&quot;px-24 md:px-40 gapped-32&quot;]/div[@class=&quot;text-black gapped-40 pb-40&quot;]/div[@class=&quot;gapped-40&quot;]/div[@class=&quot;gapped-12&quot;]/div[@class=&quot;gapped-12&quot;]/div[@class=&quot;gapped-16&quot;]/div[@class=&quot;InvestmentActionRow_investmentactionrow__gNScM InvestmentActionRow_forcedlabels__Lv3Il&quot;]/div[@class=&quot;InvestmentActionRow_instructionrow__VdGUJ&quot;]/span[@class=&quot;InvestmentActionRow_units__c8KnO&quot;]/span[@class=&quot;InvestmentActionRow_label__15guG&quot;]</value>
+      <webElementGuid>1d1cc93d-e3ad-4abc-8c0e-5d6c4edf73a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/main/div/div[2]/div[2]/div/div/div[2]/div/div/div/span[2]/span</value>
+      <webElementGuid>f1300c33-7648-4b88-b771-f616e209de7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='% of Portfolio'])[1]/following::span[2]</value>
+      <webElementGuid>62852351-d0cf-4383-9744-42ad34928dde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fund'])[1]/following::span[4]</value>
+      <webElementGuid>509006fb-0961-4c55-8e17-a3c5d34242a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit Price'])[1]/preceding::span[1]</value>
+      <webElementGuid>8bba5d48-89be-42f3-ad79-3e852d8e3954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Units']/parent::*</value>
+      <webElementGuid>1a141354-cb5f-4f29-a086-d61069f143ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span</value>
+      <webElementGuid>6afa2753-40b5-4c03-bdaa-0c7f22832919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Units' or . = 'Units')]</value>
+      <webElementGuid>ae5eb1b6-675d-40a2-aec4-6e39a048ff6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

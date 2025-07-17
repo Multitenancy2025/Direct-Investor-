@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify user can navigate to Securities Account from the Dashboard</description>
+   <name>Verify user can navigate to Securities Account</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>35554200-a9e9-4039-bf54-ff5ab82b3d64</testCaseGuid>
+</TestCaseEntity>
