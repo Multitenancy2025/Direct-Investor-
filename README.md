@@ -1,4 +1,6 @@
-# Direct-Investor-This repository contains test automation scripts and documentation for validating key transactional functionalities of an investment platform. The automated test suite ensures the integrity and consistency of the following transaction types:
+# Direct-Investor-This repository contains test automation scripts and documentation for validating key transactional functionalities of an investment platform.
+
+The automated test suite ensures the integrity and consistency of the following transaction types:
 
 - Contribution
 - New Investment
